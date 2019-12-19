@@ -134,7 +134,7 @@ GEM
     pdfkit (0.8.2)
     public_suffix (3.0.3)
     puma (3.12.1)
-    rack (2.0.5)
+    rack (2.0.8)
     rack-contrib (2.1.0)
       rack (~> 2.0)
     rake (12.3.2)
